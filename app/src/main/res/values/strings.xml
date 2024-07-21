@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hepto</string>
+    <string name="not_registered_yet_sign_up">Not Registered Yet,Sign Up !</string>
+    <string name="sign_in">Sign In</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="type_your_email">Type your Email</string>
+    <string name="already_registered_sign_in">Already Registered,Sign In !</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="retype_your_password">Retype Your Password</string>
+    <string name="home_blank_fragment">Home fragment</string>
+    <string name="maps_blank_fragment">Maps fragment</string>
+    <string name="profile_blank_fragment">Profile fragment</string>
+    <string name="logout">Logout</string>
+    <string name="maps">Maps</string>
+    <string name="home">Home</string>
+</resources>
